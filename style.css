@@ -309,24 +309,4 @@ nav ul li a:hover {
 .contact-box{
   text-align: center;
   align-items: center;
-}
- body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
-}
-
-.products-grid {
-  display: flex;              /* <-- Flexbox makes them side by side */
-  gap: 20px;                  /* space between cards */
-  flex-wrap: wrap;            /* move to next line if screen is small */
-}
-
-.card p h3 p p{
-  background: #fff;
-  padding: 15px;
-  border-radius: 10px;
-  text-align: center;
-  width: 200px;               /* fixed width so they align neatly */
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
+ 
